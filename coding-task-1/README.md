@@ -1,6 +1,4 @@
-# StatProb24
-Coding Task 1
-Kelas: A
+# Coding task 1
 Anggota: 
 1. Syifa Nurul Alfiah (5027241019) 
 2. Azaria Raissa Maulidinnisa (5027241043)
